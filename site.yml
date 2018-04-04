@@ -1,0 +1,6 @@
+---
+hosts: ubuntu
+become: true
+gather_facts: False
+roles:
+    -dev_setup_java

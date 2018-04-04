@@ -1,0 +1,24 @@
+site.yml
+Roles/
+	- Java_Project/
+	
+			-tasks/
+					main.yml
+					pack_install.yml
+			-handlers/
+					main.yml
+			-files/
+				-- Required files 
+			-templates/
+					config.j2
+			-vars/
+					main.yml
+			-defaults/
+					main.yml
+			-meta/
+					main.yml (Dependency)
+	
+	
+	- .Net_Project/
+	
+	- Testing Project/

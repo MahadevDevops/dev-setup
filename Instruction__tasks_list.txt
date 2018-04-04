@@ -1,0 +1,11 @@
+Tasks
+
+-Installing
+	git
+	java 8
+	maven
+	apache
+	tomcat
+setting environment variables
+
+	
